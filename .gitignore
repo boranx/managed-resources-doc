@@ -1,0 +1,9 @@
+# vscode
+.vscode/
+
+# python 
+__pycache__/
+
+# auth
+token.pickle
+credentials.json
